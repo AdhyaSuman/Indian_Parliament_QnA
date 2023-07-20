@@ -9,7 +9,7 @@ Tutorial
 ---------
 
 .. |colab1| image:: https://colab.research.google.com/assets/colab-badge.svg
-    :target: https://github.com/AdhyaSuman/Indian_Parliament_QnA/blob/master/Notebooks/Example_Finance.ipynb
+    :target: https://colab.research.google.com/github/AdhyaSuman/Indian_Parliament_QnA/blob/master/Notebooks/Example_Finance.ipynb
     :alt: Open In Colab
 
 +-----------------------------------------------------------------------------------------+----------+
